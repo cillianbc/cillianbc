@@ -1,0 +1,44 @@
+
+.navbar-brand img{
+  height:5rem;
+}
+
+.navbar-default .navbar-nav>.active>a{
+  background-color:#f26e5c;
+  color:white;
+}
+
+.navbar-default .navbar-nav>.active>a:hover{
+  background-color:#f26e5c;
+  color:white;
+}
+#navbar a:hover{
+  background-color:#f26e5c;
+  color:white;
+  cursor: pointer;
+}
+#nav-bar a{
+  color:white;
+}
+
+.navbar-brand{
+  padding: 0;
+}
+.bg {
+width: 100%;
+}
+.cta{
+  background-color:#f26e5c;
+  text-align:center;
+
+  color: white;
+  padding: 2rem 0 3rem 0;
+}
+
+.cta h2 {
+    display: inline-block;
+    padding-right: 3rem;
+}
+.porfolio {
+  padding: 3rem;
+}
